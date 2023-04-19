@@ -9,4 +9,4 @@ A basic example of a Movie Ticket Reservation section on a Theater Website using
 * **JavaScript (ES2015 & ES6)**
 * **Local Storage**
 
-### [Check it out!](https://pedantic-saha-64968b.netlify.app/)
+### [Check it out!](https://alu1868.github.io/MovieTickets/)
